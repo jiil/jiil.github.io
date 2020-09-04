@@ -20,7 +20,8 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  나는 ... : "aboutme"
+  github : "http://github.com"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
